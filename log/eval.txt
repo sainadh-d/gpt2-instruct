@@ -1,0 +1,574 @@
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+### Input:
+2, 6
+
+
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+1 4, 5
+
+### Response:
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+1. Number: 30
+
+### Response
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+### 5, 4
+
+### Response:
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+The number given in this form is the one
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3
+
+### Instruction:
+
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3.
+
+### Instruction:
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+1. 25, 8
+
+2.
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 3, 6, 6
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 4, 5
+<|endoftext|>### Instruction
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 16.<|endoftext|>### Instruction:
+
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 2, 2
+3
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 3
+4, 4
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 2, 1
+2<|endoftext|>###
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3,3,3<|endoftext|>### Instruction:
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 2<|endoftext|>### Instruction:
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2,3,4, 6, 18
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 4, 7
+8.<|endoftext|>
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 4
+
+### Response:
+
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 2, 3.<|endoftext|>
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 4<|endoftext|>### Instruction:
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Describe the
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 13
+13<|endoftext|>### Instruction:
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+7, 8, 9
+10, 12
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 4, 4, 5
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Name five countries
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 2<|endoftext|>### Instruction:
+Create
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Generate an
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 2<|endoftext|>### Instruction:
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 2<|endoftext|>### Instruction:
+Create
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Tell me the
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3, 2<|endoftext|>### Instruction:
+List
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+Re
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Write a short
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Change the following
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+The addition of 3 to 2 is 10 times
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3, 4<|endoftext|>### Instruction:
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Name two types
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Incorporate
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+6, 8, 10<|endoftext|>### Instruction:
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+Re
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Write a short
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Incorporate
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+6, 8, 10<|endoftext|>### Instruction:
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+Re
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Describe the
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Tell me the
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+6<|endoftext|>### Instruction:
+Create a script
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+Re
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Name two types
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Change the following
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+6<|endoftext|>### Instruction:
+Create a sentence
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+Re
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Write a short
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Tell me the
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+Find
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+D
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Name two types
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Tell me the
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+6<|endoftext|>### Instruction:
+Create a timeline
+rank 0 sample 0: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+2, 3<|endoftext|>### Instruction:
+Re
+rank 0 sample 1: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Name two types
+rank 0 sample 2: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+3<|endoftext|>### Instruction:
+Incorporate
+rank 0 sample 3: ### Instruction:
+Add the below numbers
+
+### Input:
+2, 3
+
+### Response:
+6<|endoftext|>### Instruction:
+Create a timeline
